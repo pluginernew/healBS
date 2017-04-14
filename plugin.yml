@@ -4,3 +4,6 @@ author: Pluginernew
 main: HealBS\Main
 version: 1.0
 api: [2.0.0]
+commands:
+ heal: 
+  description: heal yourself !
