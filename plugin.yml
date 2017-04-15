@@ -2,8 +2,8 @@
 name: HealBS
 author: Pluginernew
 main: HealBS\Main
-version: "1.4.0-INDEV"
-api: [1.13.0, 2.0.0]
+version: "1.6.2dev"
+api: [3.0.0-ALPHA5]
 commands:
  heal: 
   description: heal yourself !
