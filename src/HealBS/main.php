@@ -1,6 +1,6 @@
 <?php
 
-namespace Op_Command;
+namespace healBS;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat as Color;
