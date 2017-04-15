@@ -19,7 +19,7 @@ class main extends PluginBase{
         case 'heal':
           $sender->setHealth(20);
       } else {
-        $sender->sethealth(Color::RED."You Not OP !!");
+        $sender->setHealth(Color::RED."You Not OP !!");
       }
     }
   }
