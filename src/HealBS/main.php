@@ -17,9 +17,9 @@ class main extends PluginBase{
     if($sender->isOp()){
       switch($cmd->getName()){
         case 'heal':
-          $sender->sethealth(20)
+          $player->setHealth(20);
       } else {
-        $sender->sethealth(Color::RED."You Not OP !!");
+        $player->sethealth(Color::RED."You Not OP !!");
       }
     }
   }
