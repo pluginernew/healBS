@@ -9,3 +9,9 @@ commands:
   description: heal yourself !
 use: /heal
 permission: heal.command
+default: op
+
+permission:
+  heal.command:
+    description: "permission for plugin healBS"
+    default: op
