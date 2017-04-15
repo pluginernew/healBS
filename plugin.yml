@@ -7,3 +7,4 @@ api: [2.0.0]
 commands:
  heal: 
   description: heal yourself !
+use: /heal
